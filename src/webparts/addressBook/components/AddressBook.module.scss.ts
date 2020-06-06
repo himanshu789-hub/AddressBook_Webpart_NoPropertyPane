@@ -1,0 +1,45 @@
+/* tslint:disable */
+require("./AddressBook.module.css");
+const styles = {
+  addressBook: 'addressBook_1ba1ee55',
+  error: 'error_1ba1ee55',
+  noDisplay: 'noDisplay_1ba1ee55',
+  success: 'success_1ba1ee55',
+  buttonOK: 'buttonOK_1ba1ee55',
+  header: 'header_1ba1ee55',
+  nav: 'nav_1ba1ee55',
+  home: 'home_1ba1ee55',
+  'ms-Grid': 'ms-Grid_1ba1ee55',
+  add: 'add_1ba1ee55',
+  blogImage: 'blogImage_1ba1ee55',
+  content: 'content_1ba1ee55',
+  contactList: 'contactList_1ba1ee55',
+  active: 'active_1ba1ee55',
+  formContainer: 'formContainer_1ba1ee55',
+  formContent: 'formContent_1ba1ee55',
+  name: 'name_1ba1ee55',
+  incorrect: 'incorrect_1ba1ee55',
+  email: 'email_1ba1ee55',
+  mobile: 'mobile_1ba1ee55',
+  website: 'website_1ba1ee55',
+  address: 'address_1ba1ee55',
+  profileContainer: 'profileContainer_1ba1ee55',
+  profileContent: 'profileContent_1ba1ee55',
+  profileImage: 'profileImage_1ba1ee55',
+  fileSelectorButton: 'fileSelectorButton_1ba1ee55',
+  uploadArea: 'uploadArea_1ba1ee55',
+  showLoading: 'showLoading_1ba1ee55',
+  noLoading: 'noLoading_1ba1ee55',
+  event: 'event_1ba1ee55',
+  updateContainer: 'updateContainer_1ba1ee55',
+  displayContainer: 'displayContainer_1ba1ee55',
+  infoTable: 'infoTable_1ba1ee55',
+  fixedField: 'fixedField_1ba1ee55',
+  fixedName: 'fixedName_1ba1ee55',
+  fixedImage: 'fixedImage_1ba1ee55',
+  editSection: 'editSection_1ba1ee55',
+  deleteSection: 'deleteSection_1ba1ee55'
+};
+
+export default styles;
+/* tslint:enable */
